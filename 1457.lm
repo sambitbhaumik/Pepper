@@ -1,0 +1,93 @@
+Language model created by QuickLM on Tue Feb  4 12:01:05 EST 2020
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 9 sentences and 19 words
+
+\data\
+ngram 1=19
+ngram 2=28
+ngram 3=23
+
+\1-grams:
+-0.9596 </s> -0.3010
+-0.9596 <s> -0.2445
+-1.9138 ARE -0.2957
+-1.9138 BROWSER -0.2505
+-1.6128 HELLO -0.2385
+-1.9138 HI -0.2903
+-1.9138 HOW -0.2957
+-1.6128 IS -0.2848
+-1.6128 MUSIC -0.2505
+-1.6128 MY -0.2903
+-1.6128 NAME -0.2385
+-1.9138 OPEN -0.2957
+-1.6128 PEPPER -0.2505
+-1.9138 PLAY -0.2957
+-1.9138 SAMEER -0.2505
+-1.9138 SOME -0.2903
+-1.9138 STOP -0.2903
+-1.9138 WHAT -0.2903
+-1.9138 YOU -0.2505
+
+\2-grams:
+-0.9542 <s> HELLO 0.0000
+-1.2553 <s> HI 0.0000
+-1.2553 <s> HOW 0.0000
+-1.2553 <s> MY 0.0000
+-1.2553 <s> OPEN 0.0000
+-1.2553 <s> PLAY 0.0000
+-1.2553 <s> STOP 0.0000
+-1.2553 <s> WHAT 0.0000
+-0.3010 ARE YOU 0.0000
+-0.3010 BROWSER </s> -0.3010
+-0.6021 HELLO </s> -0.3010
+-0.6021 HELLO PEPPER 0.0000
+-0.3010 HI PEPPER 0.0000
+-0.3010 HOW ARE 0.0000
+-0.6021 IS MY 0.0000
+-0.6021 IS SAMEER 0.0000
+-0.3010 MUSIC </s> -0.3010
+-0.3010 MY NAME 0.0000
+-0.6021 NAME </s> -0.3010
+-0.6021 NAME IS -0.1761
+-0.3010 OPEN BROWSER 0.0000
+-0.3010 PEPPER </s> -0.3010
+-0.3010 PLAY SOME 0.0000
+-0.3010 SAMEER </s> -0.3010
+-0.3010 SOME MUSIC 0.0000
+-0.3010 STOP MUSIC 0.0000
+-0.3010 WHAT IS -0.1761
+-0.3010 YOU </s> -0.3010
+
+\3-grams:
+-0.6021 <s> HELLO </s>
+-0.6021 <s> HELLO PEPPER
+-0.3010 <s> HI PEPPER
+-0.3010 <s> HOW ARE
+-0.3010 <s> MY NAME
+-0.3010 <s> OPEN BROWSER
+-0.3010 <s> PLAY SOME
+-0.3010 <s> STOP MUSIC
+-0.3010 <s> WHAT IS
+-0.3010 ARE YOU </s>
+-0.3010 HELLO PEPPER </s>
+-0.3010 HI PEPPER </s>
+-0.3010 HOW ARE YOU
+-0.3010 IS MY NAME
+-0.3010 IS SAMEER </s>
+-0.6021 MY NAME </s>
+-0.6021 MY NAME IS
+-0.3010 NAME IS SAMEER
+-0.3010 OPEN BROWSER </s>
+-0.3010 PLAY SOME MUSIC
+-0.3010 SOME MUSIC </s>
+-0.3010 STOP MUSIC </s>
+-0.3010 WHAT IS MY
+
+\end\
