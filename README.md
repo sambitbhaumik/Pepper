@@ -2,7 +2,8 @@
 
 ## Overview
 
-Pepper was a Java-based virtual assistant that demonstrates the integration of speech recognition, natural language processing, text-to-speech synthesis, and hardware control. This project showcases a comprehensive implementation of human-computer interaction technologies
+Pepper was a Java-based virtual assistant that demonstrated the integration of speech recognition, natural language understanding, text-to-speech synthesis, and hardware control. 
+
 ## 🚀 Key Features
 
 ### Core Functionality
