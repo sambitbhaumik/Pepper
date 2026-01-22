@@ -4,7 +4,7 @@
 
 Pepper was a Java-based virtual assistant that demonstrated the integration of speech recognition, natural language understanding, text-to-speech synthesis, and hardware control. 
 
-## 🚀 Key Features
+## Key Features
 
 ### Core Functionality
 - **Speech Recognition**: Real-time voice input processing using CMU Sphinx
@@ -20,7 +20,7 @@ Pepper was a Java-based virtual assistant that demonstrated the integration of s
 - **Real-time Processing**: Continuous speech recognition with immediate response generation
 - **Extensible AI**: AIML-based knowledge base for conversational intelligence
 
-## 🏗️ Architecture
+## Architecture
 
 ### Core Components
 
@@ -88,7 +88,7 @@ AIML bot configuration and management:
 - **Audio Devices**: Microphone and speaker management
 - **Serial Communication**: USB and Bluetooth connectivity
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Pepper/
@@ -108,7 +108,7 @@ Pepper/
 └── src/main/resources/    # AIML knowledge base
 ```
 
-## 🎯 Supported Commands
+## Supported Commands
 
 ### Voice Commands
 - **"Hi Pepper"** / **"Hello Pepper"**: Initialize conversation
@@ -123,7 +123,7 @@ Pepper/
 - Personal information management
 - Context-aware responses
 
-## 🚦 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher
