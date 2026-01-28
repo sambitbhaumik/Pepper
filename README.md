@@ -1,8 +1,10 @@
 # Pepper Virtual Assistant
 
+Graduate Course Project: Winter Semester Fergusson College 2019/20
+
 ## Overview
 
-Pepper was a Java-based virtual assistant that demonstrated the integration of speech recognition, natural language understanding, text-to-speech synthesis, and hardware control. 
+Pepper, a Java-based virtual assistant that demonstrated the integration of speech recognition, natural language understanding, text-to-speech synthesis, and hardware control. 
 
 ## Key Features
 
